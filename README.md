@@ -65,7 +65,7 @@ From gentle ambient waves to explosive electronic beats, every genre gets its mo
 
 Ready to see your music in a whole new light?
 
-**[🎵 Launch Music Visualizer →](https://teHenglay.github.io/Music-Visualizer)**
+**[🎵 Launch Music Visualizer →](https://music.laszlo.icu/)**
 
 ---
 
